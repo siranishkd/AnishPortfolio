@@ -28,7 +28,8 @@ This project is exploratory in nature and it aims to:
 1. R programming (R Markdown, R Shiny)
 2. Exploratory Data Analysis
 3. Visualisations
-![](/images/Screenshot%202021-06-14%20at%204.26.35%20PM.png)
+![](/images/Screenshot%202021-06-14%20at%204.26.35%20PM.png) 
+  
 4. Statistics and Machine Learning
 * Analysis of Variance
 * Correlation Analysis
